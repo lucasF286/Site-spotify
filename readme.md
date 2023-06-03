@@ -1,4 +1,5 @@
-Clone da antiga página do Spotify usando html, css e bootstrap.
-Projeto realizado no curso Desenvolvimento Web completo 2018 - udemy
+Clone da página do Spotify usando html, css e bootstrap.
 
+Acesse o projeto em : 
+ 
 https://site-spotify-navy.vercel.app
